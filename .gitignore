@@ -1,0 +1,22 @@
+# WARPPOINT
+# Engine/build outputs
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+
+# Node/tooling
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
